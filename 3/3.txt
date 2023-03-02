@@ -1,0 +1,23 @@
+a) A sequência segue um padrão de adição de 2 a cada termo. Portanto, o próximo número na sequência é 9.
+
+Resposta: 9
+
+b) A sequência segue um padrão de multiplicação por 2 a cada termo. Portanto, o próximo número na sequência é 128.
+
+Resposta: 128
+
+c) A sequência segue um padrão de adição de números ímpares consecutivos a partir de 1. O próximo número na sequência é 49, que é o resultado de somar 7 a 36.
+
+Resposta: 49
+
+d) A sequência segue um padrão de adição de quadrados de números ímpares consecutivos a partir de 3. O próximo número na sequência é 100, que é o resultado de somar 36 a 64.
+
+Resposta: 100
+
+e) A sequência segue o padrão de Fibonacci, onde cada número é a soma dos dois anteriores na sequência. Portanto, o próximo número na sequência é 13.
+
+Resposta: 13
+
+f) A sequência não segue um padrão lógico claro. Existem várias possibilidades para o próximo número na sequência. Uma possível resposta é 20, seguindo o padrão de adição de 1 a cada termo.
+
+Resposta: 20

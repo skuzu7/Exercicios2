@@ -1,0 +1,9 @@
+Para resolver este problema, precisamos considerar as distâncias percorridas por cada veículo até o ponto de encontro.
+
+Como a distância entre Ribeirão Preto e Franca é de 100 km e os veículos estão em cidades opostas, a distância que cada um percorrerá até o ponto de encontro é a metade dessa distância, ou seja, 50 km.
+
+A velocidade do carro é de 110 km/h, o que significa que ele percorre 1,83 km por minuto. Portanto, ele levará aproximadamente 27,3 minutos para percorrer os 50 km até o ponto de encontro.
+
+Já o caminhão tem uma velocidade de 80 km/h, o que corresponde a 1,33 km por minuto. Como ele leva 5 minutos a mais para passar em cada pedágio, o tempo total que ele levará para percorrer os 50 km é de 39 minutos (29 minutos para percorrer a distância e 2 pedágios de 5 minutos cada).
+
+Assim, quando os veículos se encontrarem, o carro estará mais próximo da cidade de Ribeirão Preto, pois percorreu a distância em um tempo menor. O caminhão, por sua vez, levou mais tempo para percorrer a mesma distância e, portanto, estará mais próximo da cidade de Franca.
